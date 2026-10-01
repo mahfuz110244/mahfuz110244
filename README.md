@@ -1,13 +1,23 @@
-# Mahfuzur Rahman Khan
+# Hi, I'm Mahfuzur Rahman Khan 👋
 
-**Backend Lead Engineer**
+**Backend Lead Engineer · Golang · Distributed Systems · Payments**
 
-<img src="mrk.jpg" alt="Mahfuzur Rahman Khan" width="115" align="right">
+10+ years building scalable microservices and payment platforms across EdTech, FinTech, and E-commerce. Previously led backend at **Shikho** (3M+ learners). Based in Dhaka, Bangladesh 🇧🇩
 
-- Dhaka, Bangladesh
-- [mahfuzku11@gmail.com](mailto:mahfuzku11@gmail.com)
-- +8801520103197
-- [LinkedIn](https://www.linkedin.com/in/mahfuz110244) | [GitHub](https://github.com/mahfuz110244) | [Blog](https://mr-khan.gitlab.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfuz110244)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?logo=gitlab&logoColor=white)](https://mr-khan.gitlab.io/)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@mahfuz110244)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahfuzku11@gmail.com)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 
 ## Professional Summary
 
